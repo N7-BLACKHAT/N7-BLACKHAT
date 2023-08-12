@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n7-blackhat&label=Profile%20views&color=0e75b6&style=flat" alt="n7-blackhat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n7-blackhat" alt="n7-blackhat" /></a> </p>
-
 - 🔭 I’m currently working on **developing Furniture App**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
